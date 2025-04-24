@@ -1,4 +1,52 @@
-# 7th-Semester-Project
-It is a Machine learning project to detect crimes occurring in a city and to analyze them. In this dataset we have columns such as- Occurence date, month, reporting
-date , Neighborhood, type of offence, MCI (or Major Crime Indicators). This would help in clearly showcasing which neighbourhood are dangerous and require more focus of police agencies. It would also supplement to the general public’s knowledge for their own well-being and safety. Our study aims to find spatial and temporal criminal hotspots and also forcasting of crime using a set of real-world datasets of crimes. We will try to locate the most likely crime locations and their frequent occurrence time.In addition, we will predict what type of crime might occur next in a specific location within a particular time. Finally, we intend to provide an analysis study by combining our findings of a particular crimes dataset with its demographics information.
+# Analysis and Detection of Crime using K-means Algorithm
+📌 Overview
+This project focuses on analyzing and detecting crime patterns using the K-Means Clustering Algorithm. By clustering historical crime data, we aim to uncover crime hotspots and trends that can assist law enforcement and city planners in decision-making.
 
+🚀 Features
+📊 Clusters crime data based on location and type
+
+🧭 Identifies potential crime-prone zones
+
+🗺️ Visual representation using maps and charts
+
+🧮 Uses K-Means Clustering for unsupervised learning
+
+💾 Data preprocessing and normalization included
+
+🛠️ Technologies Used
+🐍 Python
+
+📚 Pandas, NumPy
+
+📈 Matplotlib, Seaborn
+
+🤖 Scikit-learn
+
+🗺️ Folium (for map visualizations)
+
+🔍 How It Works
+📥 Load and preprocess crime dataset
+
+🧹 Clean and normalize data
+
+📍 Apply K-Means Clustering on latitude, longitude, and other features
+
+🖼️ Visualize clusters to show crime hotspots
+
+📂 Dataset
+We use real-world or simulated crime data with fields like:
+
+🕒 Date & Time
+
+🏙️ Location (Latitude & Longitude)
+
+🧾 Crime Type
+
+🆔 Case ID
+
+📸 Sample Outputs
+Heatmaps showing high-crime zones
+
+Clustering visuals on maps
+
+Summary reports of each cluster
