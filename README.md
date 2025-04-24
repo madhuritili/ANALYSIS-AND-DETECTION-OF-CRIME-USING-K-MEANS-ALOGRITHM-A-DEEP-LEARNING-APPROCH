@@ -3,50 +3,44 @@
 This project focuses on analyzing and detecting crime patterns using the K-Means Clustering Algorithm. By clustering historical crime data, we aim to uncover crime hotspots and trends that can assist law enforcement and city planners in decision-making.
 
 🚀 Features
-📊 Clusters crime data based on location and type
 
-🧭 Identifies potential crime-prone zones
+        📊 Clusters crime data based on location and type
 
-🗺️ Visual representation using maps and charts
+        🧭 Identifies potential crime-prone zones
 
-🧮 Uses K-Means Clustering for unsupervised learning
+        🗺️ Visual representation using maps and charts
 
-💾 Data preprocessing and normalization included
+        🧮 Uses K-Means Clustering for unsupervised learning
 
-🛠️ Technologies Used
-🐍 Python
+        💾 Data preprocessing and normalization included
 
-📚 Pandas, NumPy
+  🛠️ Technologies Used
+  
+        🐍 Python
 
-📈 Matplotlib, Seaborn
+        📚 Pandas, NumPy
 
-🤖 Scikit-learn
+        📈 Matplotlib, Seaborn
 
-🗺️ Folium (for map visualizations)
 
 🔍 How It Works
-📥 Load and preprocess crime dataset
 
-🧹 Clean and normalize data
+      📥 Load and preprocess crime dataset
 
-📍 Apply K-Means Clustering on latitude, longitude, and other features
+      🧹 Clean and normalize data
 
-🖼️ Visualize clusters to show crime hotspots
+      📍 Apply K-Means Clustering on latitude, longitude, and other features
+
+      🖼️ Visualize clusters to show crime hotspots
 
 📂 Dataset
-We use real-world or simulated crime data with fields like:
 
-🕒 Date & Time
+      We use real-world or simulated crime data with fields like:
 
-🏙️ Location (Latitude & Longitude)
+     🕒 Date & Time
 
-🧾 Crime Type
+     🏙️ Location (Latitude & Longitude)
 
-🆔 Case ID
+     🧾 Crime Type
 
-📸 Sample Outputs
-Heatmaps showing high-crime zones
-
-Clustering visuals on maps
-
-Summary reports of each cluster
+      🆔 Case ID
