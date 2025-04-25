@@ -75,16 +75,29 @@ The dataset contains real or synthetic data with the following fields:
 
 Below are visual outputs of the clustering and analysis:
 
-![a1](https://github.com/user-attachments/assets/cdff5d48-fffe-4d2b-a199-447cb3320fa3)  
-![a2](https://github.com/user-attachments/assets/9c13956c-a097-4b1f-87b2-19096af7d556)  
-![a3](https://github.com/user-attachments/assets/ad2a9622-4158-43ed-b1f8-6a59442c34c4)  
-![a4](https://github.com/user-attachments/assets/eb2014da-de72-4e34-995f-4a84973c7fdd)  
-![a5](https://github.com/user-attachments/assets/b02baa5a-110f-4314-9408-1ff2d1b32855)  
-![a6](https://github.com/user-attachments/assets/11fd0153-1a18-4d6b-9446-cc0cc5088ed0)  
-![a7](https://github.com/user-attachments/assets/19b8b7df-7693-40cd-a25c-9b8eef24c96c)  
-![a8](https://github.com/user-attachments/assets/9aeb2dd0-d536-4414-b861-797d3c2141c9)  
-![a9](https://github.com/user-attachments/assets/e98c5462-1bb2-4291-a3da-d5b38c364a58)  
-![a10](https://github.com/user-attachments/assets/8030334f-c013-4394-a32a-f815e1006ee2)  
-![a11](https://github.com/user-attachments/assets/807c8a32-e924-4e63-a8bf-345d035d5c94)
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cdff5d48-fffe-4d2b-a199-447cb3320fa3" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9c13956c-a097-4b1f-87b2-19096af7d556" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ad2a9622-4158-43ed-b1f8-6a59442c34c4" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/eb2014da-de72-4e34-995f-4a84973c7fdd" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b02baa5a-110f-4314-9408-1ff2d1b32855" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/11fd0153-1a18-4d6b-9446-cc0cc5088ed0" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/19b8b7df-7693-40cd-a25c-9b8eef24c96c" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9aeb2dd0-d536-4414-b861-797d3c2141c9" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e98c5462-1bb2-4291-a3da-d5b38c364a58" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8030334f-c013-4394-a32a-f815e1006ee2" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github.com/user-attachments/assets/807c8a32-e924-4e63-a8bf-345d035d5c94" width="100%"/></td>
+  </tr>
+</table>
 ---
